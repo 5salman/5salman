@@ -2,7 +2,7 @@
 - 👀 I’m interested in Technology and front end development
 - 🌱 I’m currently working as a web Developer
 - 💞️ I’m looking to collaborate on any new technology or project
-- 📫 How to reach me ...
+
 
 <!---
 5salman/5salman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
