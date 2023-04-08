@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @5salman
 - 👀 I’m interested in Technology and front end development
-- 🌱 I’m currently working as a web Developer
+- 🌱 I’m currently working as a Full stack web Developer
 - 💞️ I’m looking to collaborate on any new technology or project
 
 
